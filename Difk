@@ -1,0 +1,12 @@
+LocationShareApp/
+├── LocationShareApp.xcodeproj/
+├── LocationShareApp/
+│   ├── AppDelegate.swift
+│   ├── Assets.xcassets/
+│   ├── Base.lproj/
+│   │   ├── LaunchScreen.storyboard
+│   │   ├── Main.storyboard
+│   ├── Info.plist
+│   └── ViewController.swift
+└── LocationShareAppTests/
+└── LocationShareAppUITests/
